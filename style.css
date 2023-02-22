@@ -86,6 +86,11 @@ hr {
 
 #text1 {
     margin-right: 15px;
+    width: 260px;
+}
+
+#text2 {
+    width: 260px;
 }
 
 #e-mail {
@@ -100,38 +105,34 @@ hr {
 }
 
 .box1 {
-    width: 900px;
+    width: 700px;
     height: 200px;
     margin-top: 100px;
     margin-left: 50px;
-    float: left;
     background-color: white;
 }
 
 .box2 {
-    width: 900px;
+    width: 700px;
     height: 200px;
     margin-top: 100px;
     margin-left: 50px;
-    float: left;
     background-color: white;
 }
 
 .box3 {
-    width: 900px;
+    width: 700px;
     height: 200px;
     margin-top: 100px;
-    margin-left: 50px;
-    float: left;
+    margin-right: 100px;
     background-color: white;
 }
 
 .box4 {
-    width: 900px;
+    width: 700px;
     height: 200px;
     margin-top: 100px;
-    margin-left: 50px;
-    float: left;
+    margin-right: 100px;
     background-color: white;
 }
 
@@ -139,4 +140,12 @@ hr {
     width: 100%;
     height: 300px;
     background-color: rgb(196, 190, 190);
+}
+
+.leftboxes {
+    float: left;
+}
+
+.rightboxes {
+    float: right;
 }
